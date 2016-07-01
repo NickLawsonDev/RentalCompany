@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\dev\RentalCompany\RentalCompany.Core\bin\Debug\RentalCompany.Core.dll
+C:\Users\User\Desktop\dev\RentalCompany\RentalCompany.Core\bin\Debug\RentalCompany.Core.pdb
+C:\Users\User\Desktop\dev\RentalCompany\RentalCompany.Core\obj\Debug\RentalCompany.Core.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\dev\RentalCompany\RentalCompany.Core\obj\Debug\RentalCompany.Core.dll
+C:\Users\User\Desktop\dev\RentalCompany\RentalCompany.Core\obj\Debug\RentalCompany.Core.pdb
+C:\Users\User\Desktop\dev\RentalCompany\RentalCompany.Core\obj\Debug\RentalCompany.Core.dll.mdb
+C:\Users\User\Desktop\dev\RentalCompany\RentalCompany.Core\bin\Debug\RentalCompany.Core.dll.mdb

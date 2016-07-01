@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CreateReport">Create Report</string>
+  <string name="FindReport">Find Report</string>
+    <string name="ApplicationName">Rental Company</string>
+</resources>
